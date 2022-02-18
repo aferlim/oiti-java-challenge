@@ -8,7 +8,7 @@ O objetivo deste desafio é avaliar os seus conhecimentos em arquitetura de cód
 
 ## Etapa 1 - Refactoring
 
-Por favor, baixe este repositório: queremos avaliar sua estratégia em resolver alguns problemas contidos nessa aplicação.
+Por favor, baixe este repositório: queremos avaliar sua estratégia de resolução de alguns problemas contidos no projeto.
 
 ### Requisitos
 
