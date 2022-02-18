@@ -58,11 +58,11 @@ Pronto!
 
 ## Etapa 2 - Live Coding
 
-​Marcaremos com você o dia do seu _live-coding_: uma entrevista técnica onde, a partir do projeto _refatorado_ por você, lhe daremos novas instruções para conclusão da estapa 2 desafio.
+​Marcaremos com você o dia do seu _live-coding_: uma entrevista técnica onde, a partir do projeto _refatorado_ por você, lhe daremos novas instruções para conclusão da estapa 2.
+
+No início desta entrevista, **você receberá um novo documento**, contento os detalhes técnicos.
 
 Você deverá resolvê-lo ao vivo com um avaliador.
-
-No início desta entrevista, **você receberá um novo documento**, contento os detalhes técnicos para a realização do desafio.
 
 ## Final
 
