@@ -1,4 +1,4 @@
-# Desafio - Oiti Java Developer
+# Desafio Oiti - Java Developer
 
 ## Objetivo
 
