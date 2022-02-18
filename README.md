@@ -47,12 +47,14 @@ Pronto!
 
 <img src="clean.png" alt="drawing" width="500"/>
 
-- Refatorar a arquitetura do projeto aplicando **Clean Achitecture**:
-  - O projeto foi desenvolvido, até então, sem seguir um padrão coeso e desacoplado. Por favor, melhore-o sobre utilizando arquitetura limpa (clean Architecture ).
-- Aplicar comportamentos - **Utilize SpringBoot Beans**:
-  - Adicione um filtro genérico para entradas inválidas.
-  - Adicione um log genérico para todos os erros ocorridos nos fluxos.
-  - Habilite o CORS da API para todos os domínios (\*).
+**Hands On:**
+
+- 1 - Refatorar a arquitetura do projeto aplicando **Clean Achitecture**:
+  - 1.1 - O projeto foi desenvolvido, até então, sem seguir um padrão coeso e desacoplado. Por favor, melhore-o sobre utilizando arquitetura limpa (clean Architecture ).
+- 2 - Aplicar comportamentos - **Utilize SpringBoot Beans**:
+  - 2.1 - Adicione um filtro genérico para entradas inválidas.
+  - 2.2 - Adicione um log genérico para todos os erros ocorridos nos fluxos.
+  - 2.3 - Habilite o CORS da API para todos os domínios (\*).
 
 ## Etapa 2 - Live Coding
 
