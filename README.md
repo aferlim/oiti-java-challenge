@@ -38,12 +38,12 @@ Pronto!
 
 ### Refactoring
 
-- Utilize **Clean Achitecture** para atribuir um padrão ao projeto
-  - O projeto foi desenvolvido, até então, sem seguir um padrão aceitável. Por favor, melhore-o sobre utilizando arquitetura limpa (clean Architecture ).
-- Aplicar comportamentos - **Utilize SpringBoot Beans**
-  - Adicione um filtro genérico para entradas inválidas
-  - Adicione um log genérico para todos os erros ocorridos nos fluxos
-  - Habilite o CORS da API para todos os domínios (\*)
+- Refatorar a arquitetura do projeto aplicando **Clean Achitecture**:
+  - O projeto foi desenvolvido, até então, sem seguir um padrão coeso e desacoplado. Por favor, melhore-o sobre utilizando arquitetura limpa (clean Architecture ).
+- Aplicar comportamentos - **Utilize SpringBoot Beans**:
+  - Adicione um filtro genérico para entradas inválidas.
+  - Adicione um log genérico para todos os erros ocorridos nos fluxos.
+  - Habilite o CORS da API para todos os domínios (\*).
 
 ## Etapa 2 - Live Coding
 
