@@ -8,8 +8,6 @@ O objetivo deste desafio é avaliar os seus conhecimentos em arquitetura de cód
 
 ## Etapa 1 - Refactoring
 
-<img src="clean.png" alt="drawing" width="500"/>
-
 Por favor, baixe este repositório: queremos avaliar sua estratégia de resolução de alguns problemas contidos no projeto.
 
 ### Requisitos
@@ -40,6 +38,8 @@ Altere as configurações do Postgress no **projeto java** e o execute no Idle d
 Pronto!
 
 ### Refactoring
+
+<img src="clean.png" alt="drawing" width="500"/>
 
 - Refatorar a arquitetura do projeto aplicando **Clean Achitecture**:
   - O projeto foi desenvolvido, até então, sem seguir um padrão coeso e desacoplado. Por favor, melhore-o sobre utilizando arquitetura limpa (clean Architecture ).
