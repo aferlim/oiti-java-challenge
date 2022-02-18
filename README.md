@@ -10,7 +10,7 @@ O objetivo deste desafio é avaliar os seus conhecimentos em arquitetura de cód
 
 Por favor, baixe este repositório: queremos avaliar sua estratégia em resolver alguns problemas contidos nessa aplicação.
 
-### Requisitos para o desafio 1
+### Requisitos
 
 - Docker
 - Java JDK 11
@@ -43,13 +43,13 @@ Pronto!
   - Adicione um log genérico para todos os erros ocorridos nos fluxos
   - Habilite o CORS da API para todos os domínios (\*)
 
-### Etapa 2 - Live Coding
+## Etapa 2 - Live Coding
 
 ​Marcaremos com você o dia do seu _live-coding_: uma entrevista técnica onde, a partir do projeto _refatorado_ por você, lhe daremos novas instruções para conclusão da estapa 2 desafio, e deverá resolvê-lo ao vivo com um avaliador.
 
 No início desta entrevista, **você receberá um novo documento**, contento os detalhes técnicos para a realização do desafio.
 
-### Final
+## Final
 
 Após a avaliação, os seus resultados serão encaminhados de volta para a equipe técnica, e eles irão dar continuidade ao seu processo seletivo juntamente com o RH da Oiti.
 ​
