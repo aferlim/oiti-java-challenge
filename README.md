@@ -31,11 +31,11 @@ Utilize o comando abaixo para subir um container do PostgreSql:
 
 Após a criação da rede:
 
-Linux / MacOS:
+**Linux / MacOS:**
 
     docker run --name oititec-postgres --network=postgres-network -e "POSTGRES_PASSWORD=Postgres2022!" -p 5432:5432 -v /home/$(echo $USER)/postgresql:/var/lib/postgresql/data -d postgres
 
-Windows:
+**Windows:**
 
     docker run --name oititec-postgres --network=postgres-network -e "POSTGRES_PASSWORD=Postgres2022!" -p 5432:5432 -v c:/dev/postgresql:/var/lib/postgresql/data -d postgres
 
