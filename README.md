@@ -14,6 +14,7 @@ Por favor, baixe este repositório: queremos avaliar sua estratégia de resoluç
 
 - Docker
 - Java JDK 11
+- PostgreSql
 - Idle de sua preferência
 
 ### Características do repositório
