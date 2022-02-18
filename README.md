@@ -27,11 +27,17 @@ Por favor, baixe este repositório: queremos avaliar sua estratégia de resoluç
 
 Utilize o comando abaixo para subir um container do PostgreSql:
 
-    sudo docker network create --driver bridge postgres-network
+    docker network create --driver bridge postgres-network
 
 Após a criação da rede:
 
+Linux / MacOS:
+
     docker run --name oititec-postgres --network=postgres-network -e "POSTGRES_PASSWORD=Postgres2022!" -p 5432:5432 -v /home/$(echo $USER)/postgresql:/var/lib/postgresql/data -d postgres
+
+Windows:
+
+    docker run --name oititec-postgres --network=postgres-network -e "POSTGRES_PASSWORD=Postgres2022!" -p 5432:5432 -v c:/dev/postgresql:/var/lib/postgresql/data -d postgres
 
 Altere as configurações do Postgress no **projeto java** e o execute no Idle de sua preferência.
 
