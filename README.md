@@ -62,7 +62,7 @@ Por favor, baixe este repositório: queremos avaliar sua estratégia de resoluç
     - done
     - description
 - 6. Deverá conter um endpoint para buscar tarefa apenas do usuário
-  - Path: Get - /api/v1/task
+  - Path: Get - /api/task
   - Query:
     - description (opcional)
     - date (opcional)
@@ -80,7 +80,7 @@ Por favor, baixe este repositório: queremos avaliar sua estratégia de resoluç
     - pageNumber (number)
     - pageSize (number)
 - 7. Deverá conter um endpoint para buscar uma tarefa específica, desde que do usuário
-  - Path: Get -> /api/v1/task/:taskId
+  - Path: Get -> /api/task/:taskId
   - Headers:
     - Authorization: Bearer token
   - Corpo da resposta (JSON)
@@ -88,12 +88,10 @@ Por favor, baixe este repositório: queremos avaliar sua estratégia de resoluç
     - date
     - done
     - description
-
-8. Deverá conter um endpoint para remover uma tarefa do usuário
-
-- Path: Get -> /api/v1/task/:taskId
-- Headers:
-  - Authorization: Bearer token
+- 8. Deverá conter um endpoint para remover uma tarefa do usuário
+  - Path: Delete -> /api/task/:taskId
+  - Headers:
+    - Authorization: Bearer token
 
 ## Requisitos não funcionais
 
