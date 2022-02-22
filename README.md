@@ -6,8 +6,8 @@ O objetivo deste desafio é avaliar os seus conhecimentos em arquitetura de cód
 
 ## Caso de Uso
 
-Como negócio precisamos que seja desenvolvido uma api para controle de tarefas pessoais de cada usuário.
-O usuários podem ver suas atividades mediante autenticação da API
+Como negócio precisamos que seja desenvolvida uma api para controle de tarefas pessoais de cada usuário.
+O usuários podem ver suas atividades mediante autenticação na API.
 
 ## Requisitos funcionais
 
