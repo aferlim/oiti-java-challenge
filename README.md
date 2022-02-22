@@ -92,13 +92,16 @@ Por favor, baixe este repositório: queremos avaliar sua estratégia de resoluç
   - Path: Delete -> /api/task/:taskId
   - Headers:
     - Authorization: Bearer token
+- 9. Utilizar Docker, caso o bando de dados escolhido seja o PostgreSql
+  - Criar um readme com informações suficientes para rodar e testar a aplicação.
 
 ## Requisitos não funcionais
 
 - Java 11
 - Spring Boot
 - JPA
-- Postgress ou H2 Database
+- PostgreSql ou H2 Database
+- Docker
 
 ## Final
 
